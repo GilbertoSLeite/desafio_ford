@@ -1,0 +1,44 @@
+[
+  {
+    "ingrediente": "Queijo Mussarela",
+    "quantidade(grama)": "300",
+    "valor": "0.03",
+    "estoque(grama)": "5000"
+  },
+  {
+    "ingrediente": "Atum",
+    "quantidade(grama)": "250",
+    "valor": "0.06",
+    "estoque(grama)": "1000"
+  },
+  {
+    "ingrediente": "Cebola",
+    "quantidade(grama)": "150",
+    "valor": "0.003",
+    "estoque(grama)": "10000"
+  },
+  {
+    "ingrediente": "Calabresa",
+    "quantidade(grama)": "300",
+    "valor": "0.025",
+    "estoque(grama)": "5000"
+  },
+  {
+    "ingrediente": "Tomate",
+    "quantidade(grama)": "100",
+    "valor": "0.004",
+    "estoque(grama)": "10000"
+  },
+  {
+    "ingrediente": "Catupiry",
+    "quantidade(grama)": "100",
+    "valor": "0.04",
+    "estoque(grama)": "2000"
+  },
+  {
+    "ingrediente": "Oregáno",
+    "quantidade(grama)": "10",
+    "valor": "0.07",
+    "estoque(grama)": "500"
+  }
+]
