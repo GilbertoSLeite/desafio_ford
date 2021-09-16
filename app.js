@@ -4,10 +4,6 @@ const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const express = require("express");
 
-const db = require("./infrastructure/database/index");
-
-db.sequelize.sync();
-
 const app = express();
 
 const corsOptions = {
@@ -29,7 +25,7 @@ app.use(cookieParser());
 // Home Page
 app.get("/", (req, res) => {
   res.json({
-    message: "Seja bem vindo ao projeto de Biblioteca Digital MAAT Digital.",
+    message: "Seja bem vindo ao Desafio Ford.",
   });
 });
 

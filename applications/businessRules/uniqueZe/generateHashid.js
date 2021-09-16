@@ -8,4 +8,6 @@ const hojeSecond = hoje.getSeconds();
 const GenerateHashid = () =>
   hojeDay + "." + hojeHours + "." + hojeMinute + "." + hojeSecond;
 
-export default GenerateHashid;
+module.exports = {
+  GenerateHashid,
+};
